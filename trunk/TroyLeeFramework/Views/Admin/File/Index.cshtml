@@ -1,0 +1,159 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="row-fluid">
+    <div class="span12">
+        <div id="theme-change" class="hidden-phone"><i class="icon-cogs"></i><span class="settings"><span class="text">Theme:</span><span class="colors"><span class="color-default" data-style="default"></span><span class="color-gray" data-style="gray"></span><span class="color-purple" data-style="purple"></span><span class="color-navy-blue" data-style="navy-blue"></span></span></span></div>
+        <h3 class="page-title">Gallery <small>simple gallery</small></h3>
+        <ul class="breadcrumb">
+            <li><a href="#"><i class="icon-home"></i></a><span class="divider">&nbsp;</span></li>
+            <li><a href="#">Gallery</a><span class="divider-last">&nbsp;</span></li>
+        </ul>
+    </div>
+</div>
+<div id="page">
+    <div class="row-fluid">
+        <div class="span2">
+            <div class="widget">
+                <div class="widget-title">
+                    <h4><i class="icon-camera-retro"></i>Folders</h4>
+                    <span class="tools"><a href="javascript:;" class="icon-chevron-down"></a><a href="javascript:;" class="icon-remove"></a></span>
+                </div>
+                <div class="widget-body">
+                    <ul id="folderTreeview">
+                            <li data-expanded="true">
+                                <span class="k-sprite folder"></span>Images
+                                    @Html.Raw(ViewBag.Directories)
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="span10">
+            <div class="widget">
+                <div class="widget-title">
+                    <h4><i class="icon-camera-retro"></i>Gallery</h4>
+                    <span class="tools"><a href="javascript:;" class="icon-chevron-down"></a><a href="javascript:;" class="icon-remove"></a></span>
+
+                </div>
+                <div class="widget-body" id="fileList">
+                    <div class="row-fluid">
+                        <div class="span4" id="currentFolder">
+                            <h5>Chọn thư mục để xem các hình ảnh</h5>
+                        </div>
+                        <div class="span8">
+                            <div class="pull-right">
+                                <select data-placeholder="Sort By" class="chosen input-small" tabindex="-1" id="inputSort"><option value="0" />
+                                          <option value="1" />
+                                          Date<option value="1" />
+                                          Author<option value="1" />
+                                          Title<option value="1" />
+                                          Hits</select><div class="clearfix space5"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="clearfix" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        function onSelect(e) {
+            var kitems = $(e.node).add($(e.node).parentsUntil('.k-treeview', '.k-item'));
+            var texts = $.map(kitems, function (kitem) {
+                return $(kitem).find('>div span.k-in').text();
+            });
+            var folder = texts.join('/');
+            var classfolder = texts.join('-');
+            $("#currentFolder").html('<h5>' + folder + '</h5>');
+            if (!$('div').hasClass(classfolder)) {
+                $.ajax({
+                    url: '@Url.Action("GetDirectories", "File")',
+                type: "POST",
+                data: { folder: folder },
+                success: function (result) {
+                    var page = 1;
+                    var display = "block";
+                    var fileIndex = 0;
+                    var stringHtml = "";
+                    for (var i = 0; i < result.files.length; i += 32) {
+                        for (var j = 0; j < 4 && fileIndex < result.files.length; j++) {
+                            stringHtml += '<div style="display:' + display + '" class="row-fluid fileListClass ' + classfolder + ' page-' + page + '">';
+                            for (var k = 0; k < 6 && fileIndex < result.files.length; k++) {
+                                stringHtml += '<div class="span2">' +
+                                    '<div class="thumbnail">' +
+                                        '<div class="item">' +
+                                            '<a class="fancybox-button" data-rel="fancybox-button" title="Photo" href="@Url.Content("~/")' + folder + '/' + result.files[fileIndex] + '">' +
+                                                '<div class="zoom">' +
+                                                    '<img src="@Url.Content("~/")' + folder + '/' + result.files[fileIndex] + '" alt="Photo" /><div class="zoom-icon"></div>' +
+                                                '</div>' +
+                                            '</a>' +
+                                        '</div>' +
+                                    '</div>' +
+                                '</div>';
+                                fileIndex++;
+                            }
+                            stringHtml += '</div><div style="display:' + display + '" class="space10 fileListClass ' + classfolder + ' page-' + page + '"></div>';
+                        }
+                        page++;
+                        display = "none";
+                    }
+
+                    stringHtml += '<div class="row-fluid fileListClass ' + classfolder + ' pageDiv">' +
+                        '<div class="span12">' +
+                        '<div class="pagination text-center">' +
+                        '<ul>';
+                    for (var l = 1; l <= page - 1; l++) {
+                        stringHtml += '<li><a href="#" onclick="showPage(\'' + classfolder + '\', \'page-' + l + '\');return false;">' + l + '</a></li>';
+                    }
+                    stringHtml += '</ul>' +
+                            '</div>' +
+                            '</div>' +
+                            '</div>';
+                    $("#fileList").append(stringHtml);
+                    showPage(classfolder, 'page-1');
+                }
+            });
+            }
+            else {
+                showPage(classfolder, 'page-1');
+                console.log(classfolder);
+            }
+            return false;
+        }
+        var folderTreeview = $("#folderTreeview").kendoTreeView({
+            select: onSelect
+        });
+    });
+
+    function showPage(classfolder, page) {
+        $(".fileListClass").hide();
+        $("." + classfolder + ".pageDiv").show();
+        $("." + classfolder + "." + page).show();
+        App.initHandleFancyBox();
+        return false;
+    }
+</script>
+
+<style type="text/css">
+    .demo-section {
+        width: 200px;
+    }
+
+    #folderTreeview .k-sprite {
+        background-image: url("/HTMLFramework/KendoUI/content/web/treeview/coloricons-sprite.png");
+    }
+
+    .rootfolder { background-position: 0 0; }
+    .folder { background-position: 0 -16px; }
+    .pdf { background-position: 0 -32px; }
+    .html { background-position: 0 -48px; }
+    .image { background-position: 0 -64px; }
+
+</style>

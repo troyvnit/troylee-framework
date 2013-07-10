@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Catel.Extensions.EntityFramework5</id>
+    <version>3.6</version>
+    <title>Catel.Extensions.EntityFramework5</title>
+    <authors>GeertvanHorrik</authors>
+    <owners>GeertvanHorrik</owners>
+    <licenseUrl>http://www.catelproject.com/license/</licenseUrl>
+    <projectUrl>http://www.catelproject.com/</projectUrl>
+    <iconUrl>http://www.catenalogic.com/catel.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Catel.Extensions.EntityFramework5 library which provides data classes such as repositories, unit of work, DbContextManager and more.</description>
+    <releaseNotes />
+    <copyright />
+    <language>en-US</language>
+    <tags>catel entity framework entityframework EF EF5 UnitOfWork unit of work DbContextManager repository repositories database</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Catel.Core" version="3.6" />
+        <dependency id="EntityFramework" version="5.0.0" />
+      </group>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Catel.Core" version="3.6" />
+        <dependency id="EntityFramework" version="5.0.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

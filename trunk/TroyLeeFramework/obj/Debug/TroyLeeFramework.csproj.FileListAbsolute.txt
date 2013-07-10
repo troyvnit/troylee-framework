@@ -1,0 +1,150 @@
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Antlr3.Runtime.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.Core.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\EntityFramework.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Newtonsoft.Json.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.Formatting.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.WebRequest.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Helpers.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.WebHost.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Mvc.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Optimization.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Razor.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebGrease.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.Data.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.WebData.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\EntityFramework.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Newtonsoft.Json.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.Formatting.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.WebRequest.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Helpers.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.WebHost.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Mvc.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Razor.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.Data.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.WebData.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.Core.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\obj\Debug\TroyLeeFramework.csprojResolveAssemblyReference.cache
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\obj\Debug\TroyLeeFramework.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\obj\Debug\TroyLeeFramework.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.Configuration.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.Integration.Mvc.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\AutoMapper.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Core.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Extensions.EntityFramework5.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Data.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Domain.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Data.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Domain.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.Configuration.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\AutoMapper.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Core.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Extensions.EntityFramework5.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\de\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\es\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\fr\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\it\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\nl\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\tr\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework\bin\zh-CHS\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.pdb
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Antlr3.Runtime.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.Configuration.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.Integration.Mvc.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\AutoMapper.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Core.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Extensions.EntityFramework5.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.AspNet.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.Core.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\EntityFramework.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Microsoft.Web.Infrastructure.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Newtonsoft.Json.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.Formatting.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.WebRequest.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Helpers.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.WebHost.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Mvc.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Optimization.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Razor.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Deployment.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Razor.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Data.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Domain.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebGrease.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.Data.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.WebData.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Data.pdb
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\TroyLeeFramework.Domain.pdb
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Autofac.Configuration.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\AutoMapper.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Core.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Catel.Extensions.EntityFramework5.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\EntityFramework.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Newtonsoft.Json.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.Formatting.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Net.Http.WebRequest.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Helpers.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Http.WebHost.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Mvc.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.Razor.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Deployment.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\System.Web.WebPages.Razor.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.Data.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\WebMatrix.WebData.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.AspNet.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.Core.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OAuth.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\de\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\es\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\fr\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\it\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\nl\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\tr\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\bin\zh-CHS\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\obj\Debug\TroyLeeFramework.csprojResolveAssemblyReference.cache
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\obj\Debug\TroyLeeFramework.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework\obj\Debug\TroyLeeFramework.pdb
