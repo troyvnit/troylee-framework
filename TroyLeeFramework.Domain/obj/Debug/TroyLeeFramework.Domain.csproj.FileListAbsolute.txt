@@ -1,0 +1,4 @@
+C:\Users\Troy Lee\documents\visual studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Domain\bin\Debug\TroyLeeFramework.Domain.dll
+C:\Users\Troy Lee\documents\visual studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Domain\bin\Debug\TroyLeeFramework.Domain.pdb
+C:\Users\Troy Lee\documents\visual studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Domain\obj\Debug\TroyLeeFramework.Domain.dll
+C:\Users\Troy Lee\documents\visual studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Domain\obj\Debug\TroyLeeFramework.Domain.pdb

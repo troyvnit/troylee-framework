@@ -1,0 +1,144 @@
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Tests.dll.config
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Tests.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Tests.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\WebGrease.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\obj\Debug\TroyLeeFramework.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\obj\Debug\TroyLeeFramework.Tests.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\obj\Debug\TroyLeeFramework.Tests.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\AutoMapper.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Autofac.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Data.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Domain.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Extensions.EntityFramework5.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Core.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\AutoMapper.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Autofac.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Data.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Domain.pdb
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Extensions.EntityFramework5.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Core.xml
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\de\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\es\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\fr\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\it\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\nl\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\tr\Catel.Core.resources.dll
+C:\Users\Troy Lee\Documents\Visual Studio 2013\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\zh-CHS\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Tests.dll.config
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Tests.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Tests.pdb
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Razor.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\AutoMapper.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\EntityFramework.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Autofac.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Data.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\WebGrease.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Extensions.EntityFramework5.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Domain.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Antlr3.Runtime.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Core.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.pdb
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.Razor.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\AutoMapper.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\EntityFramework.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Autofac.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Data.pdb
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Extensions.EntityFramework5.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\TroyLeeFramework.Domain.pdb
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\Catel.Core.xml
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\de\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\es\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\fr\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\it\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\nl\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\tr\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\bin\Debug\zh-CHS\Catel.Core.resources.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\obj\Debug\TroyLeeFramework.Tests.csprojResolveAssemblyReference.cache
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\obj\Debug\TroyLeeFramework.Tests.dll
+E:\Windows\Working\Projects\TroyLeeFramework\TroyLeeFramework.Tests\obj\Debug\TroyLeeFramework.Tests.pdb
